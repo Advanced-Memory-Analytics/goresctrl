@@ -28,3 +28,5 @@ require (
 	gopkg.in/inf.v0 v0.9.1 // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
 )
+
+replace github.com/intel/goresctrl v0.6.0 => github.com/Advanced-Memory-Analytics/goresctrl v0.0.0-20240224192300-83220dc71db0
